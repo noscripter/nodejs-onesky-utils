@@ -18,7 +18,7 @@
   "homepage": "https://github.com/brainly/nodejs-onesky-utils",
   "dependencies": {
     "md5": "^2.0.0",
-    "request-promise": "^0.4.2"
+    "request-promise": "^2.0.1"
   },
   "devDependencies": {
     "chai": "^3.0.0",
